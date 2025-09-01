@@ -1,10 +1,11 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
+![github_banner](https://github.com/user-attachments/assets/3a91a73a-a931-433a-9c6f-02175e5b3c10)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Rodrigo Salazar</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
 ### 👨🏻‍💻 &nbsp;About Me
+
 
 I'm a 25-year-old computer systems engineer with expertise in full-stack web development, database management, and software engineering. Experienced in developing and maintaining websites, managing servers, and creating web/desktop/mobile applications.
 

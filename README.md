@@ -11,6 +11,24 @@ I'm a 25-year-old computer systems engineer with expertise in full-stack web dev
 
 🌐 &nbsp;Please have a look at [rodrigoslz.dev](https://rodrigoslz.dev) for more details about me. I'm open to feedback and suggestions!
 
+<hr>
+
+### 🚀 &nbsp;Featured Project: Chronomate
+
+<a href="https://chronomate.web4you.mx">
+  <img width="400" alt="Chronomate-logo" src="https://github.com/user-attachments/assets/a7507648-03e3-4520-872e-b3b5655fdce0" align="right"/>
+</a>
+
+**Chronomate** is a smart assistant for **automatic schedule generation**, powered by optimization algorithms and a modern full-stack architecture:
+
+- ⚙️ **Backend:** Spring Boot (security with JWT, Hibernate), FastAPI.  
+- 🎨 **Frontend:** React with TailwindCSS for a clean and modern interface.  
+- 🗄️ **Database:** PostgreSQL.  
+- 🐳 **Infrastructure:** Docker + VPS deployment.
+
+Try it now! On [chronomate.web4you.mx](chronomate.web4you.mx)
+<br><br><hr>
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 

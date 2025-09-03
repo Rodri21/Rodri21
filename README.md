@@ -89,17 +89,14 @@ Try it now! On [chronomate.web4you.mx](https://chronomate.web4you.mx)
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/Rodri21">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rodri21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/Rodri21">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rodri21&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
 
 
 ### 🤝🏻 &nbsp;Connect with Me

@@ -26,7 +26,7 @@ I'm a 25-year-old computer systems engineer with expertise in full-stack web dev
 - 🗄️ **Database:** PostgreSQL.  
 - 🐳 **Infrastructure:** Docker + VPS deployment.
 
-Try it now! On [chronomate.web4you.mx](chronomate.web4you.mx)
+Try it now! On [chronomate.web4you.mx](https://www.chronomate.web4you.mx)
 <br><br><hr>
 
 
